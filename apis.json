@@ -1,0 +1,63 @@
+{
+    "name": "BlazePortfolio",
+    "description": "BlazePortfolio\u00ae develops streamlined, user-friendly trade management and portfolio rebalancing solutions for investment managers, RIA's, wealth managers, broker dealers, family offices, and industry partners.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8747-blazeportfolio.jpg",
+    "tags": [
+        "agencies",
+        "api not found",
+        "financial",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/blazeportfolio\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BlazePortfolio",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8747-blazeportfolio.jpg",
+            "humanURL": "http:\/\/www.blazeportfolio.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/blazeportfolio-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/blazeportfolio-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/blazeportfolio"
+        },
+        {
+            "type": "Email",
+            "url": "info@blazeportfolio.com"
+        },
+        {
+            "type": "Email",
+            "url": "Support@Blazeportfolio.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@blazeportfolio.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/blazeportfolio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.blazeportfolio.com\/ "
+        }
+    ]
+}
